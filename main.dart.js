@@ -28379,7 +28379,7 @@ l.aw()
 l.saQ(k)
 r.ax$!==$&&A.al()
 r.ax$=l
-m=l}r.Zr(new A.Qy(o,new A.za("/home","List Menu",new A.k3("ar","AE"),s,k),n,m,k))
+m=l}r.Zr(new A.Qy(o,new A.za("/home","QR Menu",new A.k3("ar","AE"),s,k),n,m,k))
 r.CC()},
 ayM(){var s,r,q,p,o=null
 try{o=A.Qq()}catch(s){if(t.VI.b(A.ae(s))){r=$.atS
